@@ -17,7 +17,9 @@
 <br>
 
 - A passionate Self-taught RPA developer
-- Currently learning Web Development by Self and Document Understanding Uipath
+- Currently learning Web Development by Self
+- Document Understanding Uipath
+- SQL
 - SCRUM
 
 
